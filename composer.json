@@ -1,0 +1,20 @@
+{
+	"name": "php-assets/minify",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lennart Carstens-Behrens",
+			"email": "lennart.carbe@gmail.com"
+		},
+		{
+			"name": "Jannes Behrens",
+			"email": "jannes@aw-studio.de"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"PhpAssets\\Minify\\": "src/"
+		}
+	}
+}
